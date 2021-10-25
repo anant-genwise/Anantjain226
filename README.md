@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋, I'm Anant!
+									Hi 👋, I'm Anant!
 
 A self-motivated Javascript developer from India
 
