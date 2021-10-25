@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 📫 You can reach me at anantjain226@gmail.com
 
-⚡ Fun fact: Qualification-wise I do not belong to any engineering background whatsoever
+⚡ Fun fact: Qualification-wise I do not belong to any engineering background
 
