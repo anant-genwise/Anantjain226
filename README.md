@@ -1,4 +1,4 @@
-																													Hi 👋, I'm Anant!
+																													
 
 <!--
 **Anantjain226/Anantjain226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi 👋, I'm Anant!
+
 A self-motivated Javascript developer from India
 
 🔭 I’m currently working as a software engineer at Masai School
