@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Anant!
 
-A self-motivated Javascript developer from India
+### A self-motivated Javascript developer from India
 
 🔭 I’m currently working as a software engineer at Masai School
 
